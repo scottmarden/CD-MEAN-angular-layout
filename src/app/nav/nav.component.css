@@ -1,0 +1,11 @@
+#navWrapper {
+	text-align: left;
+	background-color: lightblue;
+	padding: 10px;
+	display: inline-block;
+	height: 500px;
+}
+a{
+	display: block;
+	margin: 10px;
+}
